@@ -114,9 +114,9 @@ void loadObject(std::string name, std::string textureName, float bounciness, int
 void Object::loadObjectMasterList()
 {
 	loadObject("Player", "playerIdle", .1);
-	loadObject("Strawberry Mochi", "mochiStrawberry", .1);
-	loadObject("Vanilla Mochi", "mochiVanilla", .1);
-	loadObject("Green Tea Mochi", "mochiGreenTea", .5);
+	loadObject("Strawberry Mochi", "mochiStrawberry", .25);
+	loadObject("Vanilla Mochi", "mochiVanilla", .5);
+	loadObject("Green Tea Mochi", "mochiGreenTea", .75);
 	
 }
 

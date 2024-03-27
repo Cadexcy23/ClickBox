@@ -2,7 +2,7 @@
 Description: Box with little jumping mochi creatures to click on.\
 Author: Caden Metzgus\
 Created: 10/13/2018\
-Platform: Windows\
+Platform: Windows
 
 ## Controls
 1 2 3 - Spawn creature at the mouse position.\
